@@ -1,6 +1,6 @@
 # TDs NODE JS
 
-- Exercices d'initation à l'arduino avec un kit Groove.
+- Exercices d'initation à Node JS. Utilisation d'un Arduino avec Groove, de Johnny-five, de Socket.IO, de Mosquitto et de Node-Red.
 - UE Internet des Objets en Master 2 MIAGE.
 
 ## Exercice 1
