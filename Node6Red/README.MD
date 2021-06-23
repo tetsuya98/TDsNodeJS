@@ -1,4 +1,4 @@
-# Exercie Node RED
+# Exercice Node RED
 
 - npm install mqtt
 - npm install readline
