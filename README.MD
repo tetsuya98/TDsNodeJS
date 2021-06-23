@@ -4,7 +4,7 @@
 - UE Internet des Objets en Master 2 MIAGE.
 
 ## Exercice 1
-Initiation aux fonctions asynchrone.
+Initiation aux fonctions asynchrones.
 
 ## Exercice 2
 Lire et écrire sur le port série Arduino.
@@ -13,7 +13,7 @@ Lire et écrire sur le port série Arduino.
 Communication avec un arduino via Johnny-five.
 
 ## Exercice 4 
-Communication avec un server via des socket.
+Communication avec un server via des sockets.
 
 ## Exercice 5
 S'incrire et publier sur des topics Mosquitto.
