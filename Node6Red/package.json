@@ -1,0 +1,16 @@
+{
+  "name": "node6red",
+  "version": "1.0.0",
+  "description": "NODE-RED + Arduino",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Josselin ABEL",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^4.2.8",
+    "readline": "^1.3.0",
+    "serialport": "^9.2.0"
+  }
+}
